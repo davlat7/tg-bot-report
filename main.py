@@ -4,7 +4,7 @@ from apscheduler.schedulers.background import BackgroundScheduler
 import json
 import os
 
-TOKEN = os.getenv("7293066873:AAE6t4ueT8lm_0LhM-WF1bVx5SfhJMLeU5w")
+TOKEN = os.getenv("8392187314:AAEWAdFIinhCXhoYAuJtbGJIzLQ3tzuAW6c")
 
 data_file = 'user_data.json'
 
